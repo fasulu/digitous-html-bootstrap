@@ -1,0 +1,52 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.my-container {
+    margin: 10px;
+}
+
+.my-r1c {
+    background-color: yellow;
+    border:5px solid white;
+}
+
+.my-r2c {
+    background-color: blue;
+    border:5px solid white;
+}
+
+.my-r3c {
+    background-color: red;
+    border:5px solid white;
+}
+
+.my-r4c {
+    background-color: green;
+    border:5px solid white;
+}
+
+.my-r5c {
+    background-color: grey;
+    border:5px solid white;
+    
+}
+
+.my-r6c {
+    background-color: yellow;
+    border:5px solid white;
+    
+}
+
+.my-r7c {
+    background-color: blue;
+    border:5px solid white;
+    
+}
+.my-r8c {
+    background-color: red;
+    border:5px solid white;
+    
+}

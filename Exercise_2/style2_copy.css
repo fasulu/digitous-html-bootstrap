@@ -1,0 +1,29 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.my-container {
+    margin: 10px;
+}
+
+.my-r1c {
+    background-color: yellow;
+    border:1px solid white;
+}
+
+.my-r2c {
+    background-color: blue;
+    border:1px solid white;
+}
+
+.my-r3c {
+    background-color: red;
+    border:1px solid white;
+}
+
+.my-r4c {
+    background-color: red;
+    border:1px solid white;
+}
